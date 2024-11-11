@@ -1,15 +1,18 @@
-# GOVERNANCE-REGULATION
-
 ![image](https://github.com/user-attachments/assets/13c7a40b-45b9-4342-a46f-76af837f4bd7)
+
+
+# GOVERNANCE REGULATION
+
 
 
 Per comprendere meglio questo argomento  è importante soffermarsi sul singificato di tre termini: 
 1) GOVERNANCE: gestire e dirigere un'organizzazione o un sistema per raggiungere i propri obiettivi e garantire la conformità alle leggi, ai regolamenti e agli standard.
-2) REGOLAMENTAZIONE: Norma o legge applicata da un organo di governo per garantire il rispetto delle norme e proteggere da eventuali danni.
-3) CONFORMITA': stato di adesione alle leggi, ai regolamenti e agli standard che si applicano a un'organizzazione o a un sistema.
+2) REGULATION: Norma o legge applicata da un organo di governo per garantire il rispetto delle norme e proteggere da eventuali danni.
+3) COMPLIANCE: stato di adesione alle leggi, ai regolamenti e agli standard che si applicano a un'organizzazione o a un sistema.
 
 
  # GOVERNANCE DELLA SICUREZZA DELLE INFORMAZIONI 
+ 
  La governance della sicurezza delle informazioni rappresenta l'insieme di politiche, processi e controlli che permettono a un'organizzazione di gestire, proteggere e monitorare la privacy, l'affidabilità e l'accessibilità delle sue risorse informative. Pertanto viene considerato come un elemento essenziale per la gestione del rischio , per la salvaguardai di dati sensibili e la conformità alla normativa vigente
 La governance della sicurezza delle informazioni si compone dei seguenti processi: 
 ![image](https://github.com/user-attachments/assets/91e38d9a-d8bf-4e22-a893-fb6d08499893)
