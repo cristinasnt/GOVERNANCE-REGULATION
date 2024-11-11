@@ -35,8 +35,9 @@ Un regolamento ben strutturato consente di:
 - Garantire la continuità operativa e la fiducia degli stakeholders.
 - Educare i dipendenti su buone pratiche e responsabilità relative alla sicurezza delle informazioni.
 
-   # Linee guida per sviluppare un documenti di governance
-  ![image](https://github.com/user-attachments/assets/9832e712-2c31-4774-badf-504e42f75eb6)
+   # Linee guida per sviluppare un documento di governance
+
+   ![image](https://github.com/user-attachments/assets/9832e712-2c31-4774-badf-504e42f75eb6)
   
   1) IDENTIFICARE LO SCOPO
   2) RICERCA E REVISIONE
