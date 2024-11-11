@@ -68,7 +68,7 @@ Un regolamento ben strutturato consente di:
    Il GDPR (General Data Protection Regulation) è il regolamento dell'Unione Europea che stabilisce le normative per la protezione dei dati personali. È entrato in vigore il 25 maggio 2018, con l'obiettivo di rafforzare la protezione dei dati personali dei cittadini dell'UE e di armonizzare le leggi sulla privacy in tutta Europa.
  
   
-  ![image](https://github.com/user-attachments/assets/befec500-81ef-4fff-845c-b26823124c40)
+
 
  # PUNTI SALIENTI 
  1) Ambito di Applicazione
@@ -81,6 +81,8 @@ Un regolamento ben strutturato consente di:
  8) Notifica delle Violazioni
  9) Responsabile del Trattamento dei Dati (DPO):Le aziende che trattano grandi quantità di dati devono nominare un Data Protection Officer per garantire la conformità al GDPR.
  10) Sanzioni
+
+ ![image](https://github.com/user-attachments/assets/befec500-81ef-4fff-845c-b26823124c40)
 
 
  # STANDARD DI SICUREZZA DEI DATI DEL SETTORE DELLE CARTE DI PAGAMENTO ( PCI DSS ) 
