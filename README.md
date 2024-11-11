@@ -46,7 +46,7 @@ Un regolamento ben strutturato consente di:
   4) IMPLEMENTAZIONE E COMUNICAZIONE
   5) REVISIONE E AGGIORNAMENTO
 
-   # GRC                     ![image](https://github.com/user-attachments/assets/a90e474e-1d67-4890-bdba-64f13b57873b)
+   # GRC                   ![image](https://github.com/user-attachments/assets/a90e474e-1d67-4890-bdba-64f13b57873b)
 
 
   Il framework Governance and Risk Compliance (GRC) ha la finalità di gestire in modo sistematico la governance aziendale, la gestione dei rischi e la conformità normativa.L'obiettivo di GRC è creare un ambiente operativo efficiente e allineato agli obiettivi strategici, riducendo i rischi e assicurando la conformità con leggi, regolamenti e standard di settore.
@@ -64,7 +64,10 @@ Un regolamento ben strutturato consente di:
   6) Monitoraggio dell'efficacia delle prestazioni
   7) Aggiornamento costante
 
-   # GDPR                 ![image](https://github.com/user-attachments/assets/c8fb22d4-5fa2-4a78-8669-608f0be8efa3)
+
+
+
+    # GDPR                 ![image](https://github.com/user-attachments/assets/c8fb22d4-5fa2-4a78-8669-608f0be8efa3)
 
 
 Il GDPR (General Data Protection Regulation) è il regolamento dell'Unione Europea che stabilisce le normative per la protezione dei dati personali. È entrato in vigore il 25 maggio 2018, con l'obiettivo di rafforzare la protezione dei dati personali dei cittadini dell'UE e di armonizzare le leggi sulla privacy in tutta Europa.
@@ -87,6 +90,9 @@ Il GDPR (General Data Protection Regulation) è il regolamento dell'Unione Europ
  ![image](https://github.com/user-attachments/assets/befec500-81ef-4fff-845c-b26823124c40)
 
 
+
+ 
+ 
  # STANDARD DI SICUREZZA DEI DATI DEL SETTORE DELLE CARTE DI PAGAMENTO ( PCI DSS )  ![image](https://github.com/user-attachments/assets/461d0f2c-bfa7-4bde-b0ea-e22ac4c173a6)
 
 
@@ -95,6 +101,7 @@ Il GDPR (General Data Protection Regulation) è il regolamento dell'Unione Europ
 
 
   
+ 
   # NORMA NIST 800-53
  
   La NIST 800-53 è una norma sviluppata dal National Institute of Standards and Technology (NIST), ovvero un'agenzia governativa degli Stati Uniti, che fornisce un set di linee guida e controlli di sicurezza per proteggere i sistemi informatici e le infrastrutture critiche. Questa norma è parte della serie 800 di NIST, riguardante  la sicurezza delle informazioni, ed è specificamente progettata per migliorare la protezione dei sistemi di informazione. 
@@ -108,6 +115,7 @@ Il GDPR (General Data Protection Regulation) è il regolamento dell'Unione Europ
 Uno dei controlli più cruciali del framework in esame è il " Program Management " , sotanzialmente impone di stabilire implementare e monitorare programmi per l'intera organizzazione per la sicurezza delle informazioni e la privacy. 
 
 
+
  # COMPLIANCE BEST PRACTICES Nist 800-53
  
  Le Compliance Best Practices nel contesto della NIST 800-53 si concentrano sulla creazione di un ambiente di sicurezza robusto, documentato e monitorato che aiuti le organizzazioni a rispettare le normative di sicurezza e privacy. Seguire le linee guida di NIST 800-53 aiuta le aziende a stabilire controlli efficaci, a gestire i rischi, a garantire la sicurezza dei dati e a rispondere prontamente a incidenti, contribuendo in modo significativo alla conformità normativa.
@@ -116,13 +124,19 @@ Uno dei controlli più cruciali del framework in esame è il " Program Managemen
 ![image](https://github.com/user-attachments/assets/6e6f5e20-59c5-4558-acff-2150a15bdf69)
 
 
+
+ 
  # NIST 800-63B
  La NIST 800-63B è una guida del National Institute of Standards and Technology (NIST) che si concentra sul controllo dell'accesso e sulla gestione dell'autenticazione in un sistema informatico. Essa fa parte della NIST Special Publication 800-63, che fornisce linee guida generali sulla gestione dell'identità e dell'accesso (Identity and Access Management, IAM) e sull'autenticazione in ambienti digitali.
+
 
 La NIST 800-63B, in particolare, si occupa di "Authentication and Lifecycle Management", ossia come gestire l'autenticazione degli utenti e i relativi processi durante l'intero ciclo di vita di un account utente.
 
 
-# STANDARD ISO/IEC 27001          ![image](https://github.com/user-attachments/assets/6aa21dd3-247b-44f8-8ec0-48e1c428d69d)
+
+
+
+# STANDARD ISO/IEC 27001        ![image](https://github.com/user-attachments/assets/6aa21dd3-247b-44f8-8ec0-48e1c428d69d)
 
 
 ISO/IEC 27001 è uno standard internazionale che definisce i requisiti per un Sistema di Gestione della Sicurezza delle Informazioni (ISMS, Information Security Management System). 
@@ -140,6 +154,8 @@ L’obiettivo principale di ISO 27001 è garantire che le informazioni sensibili
 2) Conformità alle normative: Supporta la conformità a leggi e regolamenti sulla protezione dei dati, come GDPR, HIPAA, ecc.
 3) Fiducia degli stakeholder: La certificazione aumenta la fiducia di clienti, partner e fornitori, dimostrando l’impegno dell'organizzazione nella sicurezza delle informazioni.
 4) Miglioramento continuo: Promuove una cultura di miglioramento continuo della sicurezza e gestione dei rischi.
+
+
 
 
 # SOC 2                  ![image](https://github.com/user-attachments/assets/9092b877-ee1d-4710-b428-ef6f0a3018d7)
