@@ -22,9 +22,10 @@ La governance della sicurezza delle informazioni si compone dei seguenti process
 4) MISURAZIONE DELLE PRESTAZIONI: Utilizzo di indicatori per misurare effettivamente l'efficacia del programma di govnernance della sicurezza delle informazioni
 5) CONFORMITA': assicurarsi che l'organizzaizone sia adeguatamente conforme alla normativa vigente
 
- # REGOLAMENTO SULLA SICUREZZA DELLE INFORMAZIONI
+ # REGOLAMENTO SULLA SICUREZZA DELLE INFORMAZIONI ![image](https://github.com/user-attachments/assets/6bcf9d75-0049-4bcf-b5a4-751e4e07e829)
 
- ![image](https://github.com/user-attachments/assets/6bcf9d75-0049-4bcf-b5a4-751e4e07e829)
+
+
 
  Il regolamento sulla sicurezza delle informazioni è un insieme di norme e linee guida interne che stabiliscono come gestire e proteggere le informazioni di un'organizzazione. Questo regolamento definisce le pratiche e le misure che devono essere adottate per ridurre i rischi associati alla gestione dei dati e garantire la riservatezza, l'integrità e la disponibilità delle informazioni
  Quali possono essere i vantaggi?
